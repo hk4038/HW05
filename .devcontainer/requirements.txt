@@ -1,0 +1,7 @@
+ipykernel
+ipywidgets
+timm
+torch
+torchaudio
+torchvision
+transformers
